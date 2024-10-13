@@ -1,4 +1,2 @@
 # nbaxter.github.io
-Portfolio Website
-
-My Website
+Trying out some landing page design
